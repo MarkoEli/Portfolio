@@ -1,2 +1,1 @@
-# Portfolio
-Portfolio de Power BI
+# AI Academy
